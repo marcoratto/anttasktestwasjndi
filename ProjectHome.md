@@ -1,0 +1,1 @@
+AntTaskTestWasJndi is a tool for testing JMS resources defined on IBM Websphere Application Server 6.x.
